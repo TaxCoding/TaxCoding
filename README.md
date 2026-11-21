@@ -28,10 +28,10 @@ I'm **Raja Naufal Zhahir**, an Informatics Engineering student at **Universitas 
 
 ### 🏆 Selected Achievements
 
-* 🥇 **1st Place** — City-Level Sumo Robot Competition
-* 🎯 **Best Strategy** — Smorphi Imaginary Challenge, RoboRoarZ 2025
-* 🥉 **3rd Place** — LCC HMTI Fair, Polibatam
-* 🤖 **Cyber Craft Expo 2025** — ITEBA
+* 🥇 **1st Place** — City-Level Sumo Robot Competition (MAN Batam)
+* 🎯 **Best Strategy** — Smorphi Imaginary Challenge, RoboRoarZ 2025 (MAN Batam)
+* 🥉 **3rd Place** — LCC HMTI Fair, Polibatam (MAN Batam)
+* 🤖 **Cyber Craft Expo 2025** — ITEBA (MAN Batam)
 
 ---
 
